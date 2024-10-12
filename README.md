@@ -2,14 +2,7 @@
 <h3 align="left">I'm an IT student from the Philippines with a strong interest in web development. I'm always seeking to learn new things and apply my knowledge to create impactful projects.</h3>
 
 - 🌱 I’m currently learning **React, Laravel**
-
 - 📫 How to reach me **inhog.cedrick@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cedric-panti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedric-panti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23649570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23649570" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
