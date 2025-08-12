@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm John Cedric Panti</h1>
+# Hi 👋, I'm Cedric
 
-<p align="left">I'm an IT student from the Philippines with a strong interest in software development. I'm always seeking to learn new things.</p>
+Aspiring Software Developer. Growing, learning, and evolving — one step at a time.
 
-- 🌱 I’m currently learning **Java, Spring Boot**
-- 📫 How to reach me **inhog.cedrick@gmail.com**
+- 🌱I am currently learning **Java, Spring Framework** and **Spring Boot**
+- 📫 How to reach me inhog.cedrick@gmail.com
