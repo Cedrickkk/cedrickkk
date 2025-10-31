@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cedric
+# Hi, I'm Cedrick 👋
 
 Aspiring Software Developer. Growing, learning, and evolving — one step at a time.
 
