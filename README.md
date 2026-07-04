@@ -1,6 +1,7 @@
 # Hi, I'm Cedrick 👋
 
-Aspiring Software Developer. Growing, learning, and evolving — one step at a time.
+Growing, learning, and evolving — one step at a time.
 
-- 🌱I am currently learning **Java Persistence with Spring Data and Hibernate** and **Angular**
-- 📫 How to reach me inhog.cedrick@gmail.com
+- 🚀 **Currently Focusing On:** Transitioning toward AI Engineering by learning Python, LLM Application Architectures, and Retrieval-Augmented Generation (RAG).
+- 🌱 **Core Tech Stack Work:** Expanding my enterprise backend foundation with **Java, Spring Data, and Hibernate**.
+- 📫 **How to reach me:** [inhog.cedrick@gmail.com](mailto:inhog.cedrick@gmail.com)
