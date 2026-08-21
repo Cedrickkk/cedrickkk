@@ -2,4 +2,4 @@
 
 Spring Boot · Laravel · React
 
-Transitioning toward AI Engineering by learning **Python**, **LLM Application Architectures**, and **RAG**.
+Transitioning toward AI Engineering by learning **Spring AI**, **LLM Application Architectures**, and **RAG**.
